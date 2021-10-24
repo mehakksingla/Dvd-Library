@@ -37,14 +37,4 @@ Prerequisites
 NetBeans or Similar Java IDE
 
 Built With
-NetBeans 8.2
-
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
-Authors
-Jose Sosa
-
-Acknowledgments
-
-Randall Clapper, the one and only instructor anyone will ever need
+NetBeans 12
